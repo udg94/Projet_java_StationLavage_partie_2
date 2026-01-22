@@ -1,0 +1,5 @@
+1 : jack : 0222222222
+2 : jean : 0111111111
+5 : Luigi : 000000000000000000000000000000000000000à : mario.luigi@nintendo.com
+4 : Pierre : +336 44 44 00 00 : nomail@hotmail.com
+3 : ugo : 0644444444 : test
